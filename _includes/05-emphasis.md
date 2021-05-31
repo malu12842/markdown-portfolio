@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Hi I'm Malu**
+*I dream to live a free but truthful life.*
+_I wish to show all that happiness to my parents._
+_At last I will tell them how much I love them._
